@@ -42,7 +42,7 @@
         </ul>
                   
 
-
+        <!-- Carousel -->
         <div class="carousel">
             <a class="carousel-item" href="#one!"><img src="img/IMG3.jpeg"></a>
             <a class="carousel-item" href="#two!"><img src="img/IMG2.jpg"></a>
@@ -51,7 +51,12 @@
             <a class="carousel-item" href="#five!"><img src="img/IMG5.jpg"></a>
         </div> 
             
-    
+        
+        <div class="division">
+            <h4>Espectaculos de circo en Mallorca</h4>
+        </div>
+
+
   
     </div>
 
@@ -70,6 +75,15 @@
                 var instances = M.Sidenav.init(elems);
             });
      </script>
+
+     <!--Inicializa carousel -->
+     <script>
+        document.addEventListener('DOMContentLoaded', function() {
+           var elems = document.querySelectorAll('.carousel');
+           var instances = M.Carousel.init(elems);
+       });
+    </script>
+
     
 </body>
 </html>
