@@ -24,3 +24,40 @@ h4{
 }
 
 
+.nav-wrapper .brand-logo img {
+    height: 64px;
+}
+
+nav {
+    background-color: #21EA21 !important;
+    
+}
+
+nav ul li a{
+    color: black;
+} 
+
+.ptop-10{
+    padding-top: 10px;
+    
+}
+
+
+
+.btn, .btn-large, .btn-small{
+    background-color: #EA2121 !important;
+    
+}
+ 
+
+.derechos{
+    
+    display: flex;
+    min-height: 150px;
+    flex-direction: column;
+    justify-content: flex-end;
+   
+}
+
+
+.m20_0{ margin:20px 0px;}
