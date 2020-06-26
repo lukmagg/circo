@@ -1,11 +1,26 @@
+body{
+    background-image: url("../img/fondo1.webp");
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* cover es para que la imagen de fondo ocupe toda la pantalla */
+    background-size: cover;
+ 
+}
+
+
 .logo {
     height: 64px;
 }
 
 .division{
-
     display: flex;
     justify-content: center;
+    margin-top: 50px;
+}
+
+h4{
+    color:red;
+    font-family: OpenSansCondensed-LightItalic;
 }
 
 
