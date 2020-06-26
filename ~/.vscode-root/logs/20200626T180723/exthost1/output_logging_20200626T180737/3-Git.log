@@ -1,0 +1,94 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /var/www/html/oier
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s 01e319f577e7f3acd01215d32e84fc506aee4b02
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s 364daf3ed1862f6911b257f8f30cbcaf828fda2f
+> git show :index.html
+> git symbolic-ref --short HEAD
+> git rev-parse pruebas
+> git rev-parse --symbolic-full-name pruebas@{u}
+fatal: no upstream configured for branch 'pruebas'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git symbolic-ref --short HEAD
+> git cat-file -s 01e319f577e7f3acd01215d32e84fc506aee4b02
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git show :index.html
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s 364daf3ed1862f6911b257f8f30cbcaf828fda2f
+> git show :index.html
+> git symbolic-ref --short HEAD
+> git rev-parse pruebas
+> git rev-parse --symbolic-full-name pruebas@{u}
+fatal: no upstream configured for branch 'pruebas'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s 01e319f577e7f3acd01215d32e84fc506aee4b02
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
