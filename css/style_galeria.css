@@ -1,0 +1,38 @@
+body{
+    background-image: url("../img/fondo1.webp");
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* cover es para que la imagen de fondo ocupe toda la pantalla */
+    background-size: cover;
+ 
+}
+
+.titulo{
+    font-size:55px;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+}
+
+
+.galeria img{
+    box-shadow: 0 8px 10px -4px rgba(0,0,0,.6);
+    border-radius: 15px;
+}
+
+.materialbox-caption{
+    bottom: 30px;
+    right: 0;
+    width: 40%;
+    height: auto;
+    padding:10px;
+    margin: auto;
+    background-color: black;
+    box-shadow: 5px 5px #fff;
+    font-size: 20px;
+    color: #fff;
+    line-height: 28px;
+}
+
+.galeria .col{
+    margin-bottom: 20px;
+}
