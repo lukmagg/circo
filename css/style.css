@@ -21,34 +21,63 @@ body{
 h4{
     color:red;
     font-family: OpenSansCondensed-LightItalic;
+    font-weight: bold;
+    opacity: 0.6;
+}
+
+.only-movil{
+    display: none;
 }
 
 
 .nav-wrapper .brand-logo img {
     height: 64px;
+    opacity: 0.9;
 }
 
 nav {
-    background-color: #21EA21 !important;
+    background-color: rgb(255, 255, 255)  !important;
+    height: 64px !important;
     
 }
 
 nav ul li a{
-    color: black;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 1.1rem;
 } 
+
+.linkss:hover{
+    
+    color: red;
+    font-size: 1.2rem;
+    -webkit-transition-property:  color, font-size;
+    -webkit-transition-duration: 0.4s;
+}
+
+.color{
+    color: black;
+}
+
+.p5{
+    padding-top: 5px;
+}
+
+.btn, .btn-large, .btn-small{
+    background-color: red !important;
+    opacity: 0.9;
+}
+
+
+.only-movil{
+    display: none;
+}
+
 
 .ptop-10{
     padding-top: 10px;
     
 }
-
-
-
-.btn, .btn-large, .btn-small{
-    background-color: #EA2121 !important;
-    
-}
- 
 
 .derechos{
     
@@ -61,3 +90,51 @@ nav ul li a{
 
 
 .m20_0{ margin:20px 0px;}
+
+
+
+
+/* Extra small devices (phones, less than 768px) */
+/* Small devices (tablets, 768px and up) */
+/* Medium devices (desktops, 992px and up) */
+/* Large devices (large desktops, 1200px and up) */
+
+
+/* Se aplica desde 0 a 768px */
+@media screen and (max-width: 768px) {
+    h4{
+        display: none;
+    }
+
+    h5{
+        color:red;
+        font-family: OpenSansCondensed-LightItalic;
+        font-weight: bold;
+        opacity: 0.6;
+    }
+
+    /*
+    .only-movil{
+        display: flex;
+        justify-content: center;
+        
+    }
+    */
+    .division{
+
+    }
+
+}
+    
+/* Se aplica desde 768px a 992px  */
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    
+}
+
+/* Se aplica desde 992px a 1200px  */
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    
+
+
+
+}
