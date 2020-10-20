@@ -2,6 +2,7 @@
     "telemetry.machineId": "55b20b9c8080a20f6d03d35f989bee0c3bed2d161dbb07c8b7b304efa8633f2c",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/luk/Escritorio/ProyectosLaravel/cms",
             "file:///var/www/html/oier"
         ],
         "files2": []
@@ -40,7 +41,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -49,7 +51,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/var/www/html/oier",
+                                        "fsPath": "/home/luk/Escritorio/ProyectosLaravel/cms",
+                                        "external": "file:///home/luk/Escritorio/ProyectosLaravel/cms",
+                                        "path": "/home/luk/Escritorio/ProyectosLaravel/cms",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/luk/Escritorio/ProyectosLaravel/cms"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///var/www/html/oier",
                                         "path": "/var/www/html/oier",
                                         "scheme": "file"
@@ -1451,8 +1464,8 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///var/www/html/oier",
-            "backupPath": "/var/www/html/oier/~/.vscode-root/Backups/b02025a1520a056c868755e9de2dd62f",
+            "folder": "file:///home/luk/Escritorio/ProyectosLaravel/cms",
+            "backupPath": "/var/www/html/oier/~/.vscode-root/Backups/99de8adce4a97464dc85db261347cc49",
             "uiState": {
                 "mode": 0,
                 "x": 171,
@@ -1463,5 +1476,5 @@
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/var/www/html"
+    "pickerWorkingDir": "/home/luk/Escritorio/ProyectosLaravel"
 }

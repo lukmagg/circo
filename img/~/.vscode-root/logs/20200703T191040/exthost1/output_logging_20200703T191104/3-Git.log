@@ -1,0 +1,807 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /var/www/html/oier
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git symbolic-ref --short HEAD
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+> git show :galeria.html
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :css/style.css
+> git ls-files --stage -- /var/www/html/oier/css/style.css
+> git cat-file -s e419dca9df3c3fd1aeb77cd93f0b7d0859e0896c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git show :css/style.css
+> git ls-files --stage -- /var/www/html/oier/css/style.css
+> git cat-file -s e419dca9df3c3fd1aeb77cd93f0b7d0859e0896c
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git show :css/style.css
+> git ls-files --stage -- /var/www/html/oier/css/style.css
+> git cat-file -s e419dca9df3c3fd1aeb77cd93f0b7d0859e0896c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git show :css/style.css
+> git ls-files --stage -- /var/www/html/oier/css/style.css
+> git cat-file -s e419dca9df3c3fd1aeb77cd93f0b7d0859e0896c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git show :css/style.css
+> git ls-files --stage -- /var/www/html/oier/css/style.css
+> git cat-file -s e419dca9df3c3fd1aeb77cd93f0b7d0859e0896c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :css/style.css
+> git ls-files --stage -- /var/www/html/oier/css/style.css
+> git cat-file -s e419dca9df3c3fd1aeb77cd93f0b7d0859e0896c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git show :css/style.css
+> git ls-files --stage -- /var/www/html/oier/css/style.css
+> git cat-file -s e419dca9df3c3fd1aeb77cd93f0b7d0859e0896c
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git show :css/style.css
+> git ls-files --stage -- /var/www/html/oier/css/style.css
+> git cat-file -s e419dca9df3c3fd1aeb77cd93f0b7d0859e0896c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :css/style.css
+> git ls-files --stage -- /var/www/html/oier/css/style.css
+> git cat-file -s e419dca9df3c3fd1aeb77cd93f0b7d0859e0896c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :galeria.html
+> git ls-files --stage -- /var/www/html/oier/galeria.html
+> git cat-file -s 31020892a8ba6cfe93d1498d95196b300524c833
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :css/style.css
+> git ls-files --stage -- /var/www/html/oier/css/style.css
+> git cat-file -s e419dca9df3c3fd1aeb77cd93f0b7d0859e0896c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /var/www/html/oier/index.html
+> git cat-file -s ab119de8bece59f889a9227bccdf9e822a29a52b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

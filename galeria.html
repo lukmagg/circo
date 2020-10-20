@@ -6,8 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Compiled and minified CSS Materialize -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    
+     <!--Import Google Icon Font-->
+     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+     <!--Import materialize.css-->
+     <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+        
 
     <link rel="stylesheet" href="css/style_galeria.css">
+    <link rel="stylesheet" href="css/style.css">
 
     <title>Galeria</title>
 
@@ -17,19 +25,43 @@
 
 
 <body>
+    <!-- Navbar -->
+    <div class="container ptop-10">      
+        <nav>
+            <div class="nav-wrapper">
+                <a href="index.html" class="brand-logo"><img src="img/es.jpeg" alt=""></a>
+                <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons color p5">menu</i></a>
+                <ul class="right hide-on-med-and-down">
+                    <li><a href="eventos.html" class="waves-effect waves-light btn hoverable">Eventos</a></li>
+                    <li><a href="contacto.html" class="linkss">Contacto</a></li>
+                    <li><a href="nosotros.html" class="linkss">Nosotros</a></li>
+                    <li><a href="galeria.html" class="linkss">Galeria</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <ul class="sidenav" id="mobile-demo">
+            <li><a href="eventos.html">Eventos</a></li>
+            <li><a href="contacto.html">Contacto</a></li>
+            <li><a href="nosotros.html">Nosotros</a></li>
+            <li><a href="galeria.html">Galeria</a></li>
+        </ul>              
+    </div>
+
 
     <main class="container">
-        <div class="row">
+        <!--
+        <div class="row ocultar_movil">
             <div class="col s12 center-align">
-                <h1 class="titulo">Circo</h1>
+                <h1 class="titulo">* * *  Circo  * * *</h1>
 
             </div>
         </div>
-
+        -->
 
 
         <!-- FILA 1 -->
-        <div class="row galeria">
+        <div class="row galeria galeria_top">
             <!-- imagen 1 -->
             <div class="col s12 m4 l3">
                 <div class="material-placeholder">
@@ -91,7 +123,7 @@
             <!-- imagen 7 -->
             <div class="col s12 m4 l3">
                 <div class="material-placeholder">
-                    <img src="img/c7.jpg" class="responsive-img materialboxed" alt="" data-caption="
+                    <img src="img/c11.jpg" class="responsive-img materialboxed" alt="" data-caption="
                         Algo que quieras poner para leer
                     ">
                 </div>
@@ -100,7 +132,7 @@
             <!-- imagen 8 -->
             <div class="col s12 m4 l3">
                 <div class="material-placeholder">
-                    <img src="img/IMG4.jpg" class="responsive-img materialboxed" alt="" data-caption="
+                    <img src="img/c4.jpg" class="responsive-img materialboxed" alt="" data-caption="
                         Algo que quieras poner para leer
                     ">
                 </div>
@@ -123,7 +155,25 @@
             <!-- imagen 10 -->
             <div class="col s12 m4 l3">
                 <div class="material-placeholder">
-                    <img src="img/IMG2.jpg" class="responsive-img materialboxed" alt="" data-caption="
+                    <img src="img/c4.jpg" class="responsive-img materialboxed" alt="" data-caption="
+                        Algo que quieras poner para leer
+                    ">
+                </div>
+            </div>
+
+            <!-- imagen 11 -->
+            <div class="col s12 m4 l3">
+                <div class="material-placeholder">
+                    <img src="img/c9.jpg" class="responsive-img materialboxed" alt="" data-caption="
+                        Algo que quieras poner para leer
+                    ">
+                </div>
+            </div>
+
+            <!-- imagen 12 -->
+            <div class="col s12 m4 l3">
+                <div class="material-placeholder">
+                    <img src="img/c4.jpg" class="responsive-img materialboxed" alt="" data-caption="
                         Algo que quieras poner para leer
                     ">
                 </div>
@@ -135,7 +185,13 @@
     </main>
 
 
-
+    <!--Inicializa menu hamburguesa responsive-->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+              var elems = document.querySelectorAll('.sidenav');
+              var instances = M.Sidenav.init(elems);
+          });
+    </script>
 
     <!-- Compiled and minified JavaScript Materialize -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>

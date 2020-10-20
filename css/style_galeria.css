@@ -36,3 +36,18 @@ body{
 .galeria .col{
     margin-bottom: 20px;
 }
+
+
+/* R E S P O N S I V E */
+
+@media screen and (max-width: 600px){
+    .materialbox-caption{
+        width: 70%;
+    }
+}
+
+@media screen and (max-width: 992px){
+    .materialbox-caption{
+        width: 80%;
+    }
+}

@@ -1,0 +1,16 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /var/www/html/oier
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse cambios_index
+> git rev-parse --symbolic-full-name cambios_index@{u}
+fatal: no upstream configured for branch 'cambios_index'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD

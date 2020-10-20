@@ -42,7 +42,16 @@
         </ul>              
     </div>
 
-   
+    <!-- division para notebook -->
+    <div class="division">
+        <h4>Espectaculos de circo en Mallorca</h4>
+    </div>
+
+    <div class="parrafo">
+        <p class="parrafo">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa dolore, veritatis ad dolorem facilis</p>
+
+    </div>
+    
         <!-- Carousel --> 
         <div class="col s12 m12 ">
             <div class="carousel">
@@ -51,16 +60,13 @@
                 
                 <a class="carousel-item" href="#three!"><img src="img/IMG1.jpg"></a>
                 <a class="carousel-item" href="#four!"><img src="img/IMG4.jpg"></a>
-                <a class="carousel-item" href="#five!"><img src="img/IMG5.jpg"></a>
+                <a class="carousel-item" href="#five!"><img src="img/c12.jpg"></a>
             </div> 
         </div>
 
 
 
-    <!-- division para notebook -->
-    <div class="division">
-        <h4>Espectaculos de circo en Mallorca</h4>
-    </div>
+    
 
     <!-- division para movil  -->
     <div class="division only-movil">
@@ -100,8 +106,14 @@
      <script>
          document.addEventListener('DOMContentLoaded', function() {
             var elems = document.querySelectorAll('.carousel');
-            var instances = M.Carousel.init(elems);
+            var instances = M.Carousel.init(elems, {
+                duration:100,
+                dist:-70,
+                               
+            });
         });
+
+        
      </script>
 
      
